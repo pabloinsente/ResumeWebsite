@@ -3,7 +3,14 @@ title: "Projects"
 date: 2019-02-05T15:11:29-06:00
 draft: false
 ---
-This a selection of projects that I have done during my graduate education (i.e., MPP and PhD) on which I have made use of the skills mentioned above. They come in three formats: research projects, thesis projects, and class projects.
+This a selection of projects that I have done during my graduate education (i.e., MPP and PhD) on which I have made use of several of my technical skills and domain knowledge. They come in three formats: research projects, thesis projects, and class projects.
+
+## Project 7
+### measuring and Assessing the Structure of Human Conceptual Representations using machine learning methods
+- **Type:** Research paper (in design phase)
+- **Method:** Combination of (1)(1) Psychological questionnaires; (2) Machine learning methods; (3) and Statistical analysis
+- **Role:** Lead researcher
+- **Software:** R and Python
 
 ## Project 6
 ### Exploring the Impact of Early Life Stress on Learning in Dynamic Environments
