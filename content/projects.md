@@ -5,10 +5,17 @@ draft: false
 ---
 This a selection of projects that I have done during my graduate education (i.e., MPP and PhD) on which I have made use of several of my technical skills and domain knowledge. They come in three formats: research projects, thesis projects, and class projects.
 
+## Project 8
+### [Deep Learning for Age-prediction from Features Extracted from Human-Drawings](https://github.com/pabloinsente/CovNet_Human_Drawings)
+- **Type:** Research paper (in progress)
+- **Method:** Combination of (1) Psychological assessments; (2) Machine learning methods: Convolutional Neural Network for feature extraction and Deep Feedforward Neural Networks; (3) and Statistical analysis
+- **Role:** Lead researcher
+- **Software:** Python, Tensorflow/Keras
+
 ## Project 7
-### measuring and Assessing the Structure of Human Conceptual Representations using machine learning methods
-- **Type:** Research paper (in design phase)
-- **Method:** Combination of (1)(1) Psychological questionnaires; (2) Machine learning methods; (3) and Statistical analysis
+### [Measuring and Assessing the Structure of Human Conceptual Representations using Network Analysis](https://github.com/pabloinsente/visualization_semantic_networks)
+- **Type:** Research paper (in progress)
+- **Method:** Combination of (1) Psychological questionnaires; (2) Machine learning methods: Graph-theory and Network Analysis; (3) and Statistical analysis
 - **Role:** Lead researcher
 - **Software:** R and Python
 
