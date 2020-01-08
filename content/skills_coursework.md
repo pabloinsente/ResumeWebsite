@@ -7,25 +7,26 @@ draft: false
 
 This is a list of technical and non-technical skills that I have acquired during my ~9 years of higher education and ~4 years of work experience.
 
-- Advance statistical analysis using **R**, **STATA** and **MATLAB**
-- Programming and automation techniques using **BASH**, **Python** and **MATLAB**
-- Computational Modelling with **MATLAB** and **Python**
+- Advance statistical analysis using **Python** and **R**
+- Machine Learning and Deep Learning using **Python** 
+- Programming and automation techniques using **BASH** and **Python**
+- Computational Modelling with **Python**
+- Version control using **Git** and **GitHub**
 - Design and analysis of psychological experiments with adults and children
 - Design and analysis of survey research
-- Version control using **Git** and **GitHub**
 - Advance writing, speaking and communication skills on Spanish (native) and English (fluent)
-- Design and analysis of public and social policy interventions
 - Team leadership and organization in survey research and psychological experiments
 
 # Coursework
 
 This is a selection of courses that I have taken during my graduate education (i.e., MPP and PhD) in three areas: psychology and neuroscience, statistics and programming, and economics and public policy. This are all full-semester courses. I also added a list of on-line courses that I have been taking as complementary study.
 
-## Psychology and Neuroscience
+## Psychology, Neuroscience, and Computer Science
 
 #### PhD-level courses
-- Neural Networks Models of Cognition (ongoing)
-- Introduction to Artificial Intelligence (ongoing)
+- Matrix Methods in Machine Learning
+- Neural Networks Models of Cognition 
+- Introduction to Artificial Intelligence
 - Computational Cognitive Science
 - Child Psychopathology
 - Child Development
