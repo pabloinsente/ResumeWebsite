@@ -3,7 +3,30 @@ title: "Projects"
 date: 2019-02-05T15:11:29-06:00
 draft: false
 ---
-This a selection of projects that I have done during my graduate education (i.e., MPP and PhD) on which I have made use of several of my technical skills and domain knowledge. They come in three formats: research projects, thesis projects, and class projects.
+This a selection of projects that I have done during my graduate education (i.e., MPP and PhD) on which I have made use of several of my technical skills and domain knowledge.
+
+## Project 11
+### [Data Visualization with Altair: a grammar of graphics for Python](https://github.com/pabloinsente/pydata_altair_tutorial)
+- **Type:** Workshop and online tutorial (in progress)
+- **Method:** This is a interactive tutorial and workshop about Altair 4.0, from the perspective of the grammmar of graphics.
+- **Role:** Lead instructor
+- **Software:** Python, Pandas, Altair, Jupyter.
+
+## Project 10
+### [Introducing software development best practices for research in the behavioral and social sciences](https://github.com/pabloinsente/sf_for_beh_ss)
+- **Type:** Workshop and online tutorial (in progress)
+- **Method:** In this workshop I provide a few simple principles that require **relatively low effort in exchange of high impact** on improving researchers computational workflows. I also provide a minimal example illustrating the application of this simple principles in a data analysis pipeline.
+- **Role:** Lead instructor
+- **Software:** Python, Numpy, Altair, Keras, Pandas, Scikit-Learn, Scipy.
+
+
+## Project 9
+### [Theory and implementation of canonical neural network models of cognition](https://github.com/pabloinsente/comp_models_cog_beh)
+- **Type:** Online tutorial (in progress)
+- **Method:** The goal of this project is to implement a selection of canonical models in cognitive science. Theoretical and historical remarks are added along with the mathemtical formulation and code implementation. The algorithms follow a step-by-step code implementation with the aim of maximize conceptual clarity. Models are implemented as Jupyter Notebooks.
+- **Role:** Lead researcher
+- **Software:** Python, Numpy, Altair, Apache MXNet anf Gluon.
+
 
 ## Project 8
 ### [Deep Learning for Age-prediction from Features Extracted from Human-Drawings](https://github.com/pabloinsente/CovNet_Human_Drawings)
@@ -27,14 +50,14 @@ This a selection of projects that I have done during my graduate education (i.e.
 - **Software:** R and MATLAB
 
 ## Project 5
-### [Pipeline automation to reproduce and evaluate the variability of genealogical patterns across the genome] (https://github.com/UWMadison-computingtools-2018/project-team-9)
+### [Pipeline automation to reproduce and evaluate the variability of genealogical patterns across the genome](https://github.com/UWMadison-computingtools-2018/project-team-9)
 - **Type:** Class project
 - **Method:** Python and BASH programming
 - **Role:** One of three authors
 - **Software:** Python and BASH
 
 ## Project 4
-### [Psychological experiment about learning social preferences under stress] (https://github.com/pabloinsente/psych-711-project)
+### [Psychological experiment about learning social preferences under stress](https://github.com/pabloinsente/psych-711-project)
 - **Type:** Class project
 - **Method:** Python programming using the Psychopy library
 - **Role:** Lead and only author
@@ -48,14 +71,14 @@ This a selection of projects that I have done during my graduate education (i.e.
 - **Software:** MATLAB, EEG-Lab library and Presentation (Neurobehavioral systems)
 
 ## Project 2
-### [Low Cognitive Impulsivity Is Associated with Better Gain and Loss Learning in a Probabilistic Decision-Making Task] (https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00204/full)
+### [Low Cognitive Impulsivity Is Associated with Better Gain and Loss Learning in a Probabilistic Decision-Making Task](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00204/full)
 - **Type:** Research paper
 - **Method:** Combination of (1) Psychological questionnaires; (2) Learning and decision-making task; (3) and statistical analysis (logistic regression, ANOVA and correlational analysis)
 - **Role:** Lead researcher. I collected the data, collaborated on the statistical analysis, and co-authored a research paper as lead-author
 - **Software:** MATLAB and Presentation (Neurobehavioral systems)
 
 ## Project 1
-### [Fitness, Nutrition and Academic Performance in Socioeconomic Context (in Spanish)] (http://repositorio.uchile.cl/handle/2250/145490)
+### [Fitness, Nutrition and Academic Performance in Socioeconomic Context (in Spanish)](http://repositorio.uchile.cl/handle/2250/145490)
 - **Type:** Master's thesis in public policy
 - **Method:** Statistical analysis of large database with educational records of Chilean students (multiple linear regression with and without fixed effects)
 - **Role:** Lead researcher
