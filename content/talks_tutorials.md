@@ -10,10 +10,10 @@ draft: false
 **Abstract**: Altair provides an elegant and consistent API for statistical graphics. Altair is built on top of the Vega-Lite high-level grammar for interactive graphics which is based on the "grammar of graphics" idea proposed by Leland Wilkinson. Altair's key strength is the provision of a clear mental model based on a set of graphical primitives and carefully designed combinatoric rules, that yields an ample space of graphical displays, avoiding the constraints of chart taxonomies. In this talk/tutorial, we will learn the fundamental building blocks of Altair/Vega-Lite's interface and design.  
 **Materials**: https://github.com/pabloinsente/pydata_altair_tutorial  
 **Outline**:
-1. Two approaches to data visualization APIs: tell me how and tell me what
-2. Wilkinson's grammar of graphics
-3. Altair, Vega-Lite, and Vega
-4. Altair in Practice: guided live tutorial  
+1. Two approaches to data visualization APIs: tell me how and tell me what  
+2. Wilkinson's grammar of graphics  
+3. Altair, Vega-Lite, and Vega  
+4. Altair in Practice: guided live tutorial    
 
 {{< youtube 8wCchjPP8U4 >}}
 
@@ -27,13 +27,13 @@ draft: false
 In this talk, I provide a selection of practices and tools requiring relatively low effort in exchange of high impact on improving researchers' computational work-flows. I also provide a minimal example illustrating the application of these simple principles in an end-to-end data analysis project.  
 **Materials**: https://github.com/pabloinsente/sf_for_beh_ss  
 **Outline**:
-1. Creating a simple and well-organized data file system
-2. Using virtual environments
-3. Using version control systems
-4. Example 1: Writing a basic reproducible script
-5. Example 2: Setting up a machine learning experiment tracking
-6. Testing your code
-7. Summary and conclusions
+1. Creating a simple and well-organized data file system  
+2. Using virtual environments  
+3. Using version control systems  
+4. Example 1: Writing a basic reproducible script  
+5. Example 2: Setting up a machine learning experiment tracking  
+6. Testing your code  
+7. Summary and conclusions  
 8. Resources to learn more  
 
 {{< youtube mBC1K7erepY >}}
