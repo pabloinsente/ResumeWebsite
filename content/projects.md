@@ -6,9 +6,9 @@ draft: false
 This a selection of projects that I have done during my graduate education (i.e., MPP and MA/PhD) on which I have made use of several of my technical skills and domain knowledge.
 
 ## Project 16
-### [Emotion in Psychology and Machine Learning](https://github.com/pabloinsente/emo-psych-ml)
-- **Type:** Research paper (in progress).
-- **Goal/method:** Learning: literature review about the conceptualization of emotion in psychology and machine learning,
+### [The Conceptualization and Measurement of Emotion in Machine Learning: A Critical Appraisal and Recommendations from Psychology](https://psyarxiv.com/edrw3)
+- **Type:** Review paper.
+- **Goal/method:** literature review about the conceptualization of emotion in psychology and machine learning,
 with recommendations for future research.
 - **Role:** Lead researcher.
 - **Software:** LaTeX.
